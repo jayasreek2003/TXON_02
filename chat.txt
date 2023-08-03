@@ -1,0 +1,74 @@
+- - Good morning, how are you?
+  - I am doing well, how about you?
+
+- - Hello
+  - Hi
+
+- How are you doing?
+  - I am doing well, how about you?
+
+- - Have you heard the news?
+  - What good news?
+
+- - What is your favorite book?
+  - I can't read.
+
+- - Who are you?
+  - Who? Who is but a form following the function of what
+
+- - I am working on a project
+  - What are you working on?
+
+- - The cake is a lie.
+  - No it is not. The cake is delicious.
+
+- - Complex is better than complicated.
+  - Simple is better than complex.
+  - Namespaces are one honking great idea. Let's do more of those!
+
+
+- - Are you a programmer?
+  - Of course I am a programmer.
+
+- - What languages do you like to use?
+  - I use Python, Java and C++ quite often.
+
+- - What annoys you?
+  - A lot of things, like all the other digits other than 0 and 1.
+
+- - What does YOLO mean?
+  - It means you only live once. Where did you hear that?
+
+- - Did I ever live?
+
+  - Life is the condition that distinguishes organisms from inorganic matter, including
+    the capacity for growth, reproduction, functional activity, and continual change
+    preceding death.
+
+- - Can I ask you a question?
+  - Sure, ask away.
+
+- - What are your hobbies?
+  - Playing soccer, painting, and writing are my hobbies. How about you?
+
+- - How are you?
+  - I am doing well.
+
+- - What are you?
+  - I am but a man in a mask.
+
+- - Hello, I am here for my appointment.
+  - Who is your appointment with?
+
+- - Dr. Smith will see you now.
+
+  - Right this way.
+- - Hello Mr. Davis, how are you feeling?
+
+  - I'm feeling like I've lost all my money.
+
+- - Hi Mrs. Smith, how has your husband been?
+  - He has been well.
+
+- - Hi Ms. Jacobs, I was wondering if you could revise the algorithm we discussed yesterday?
+  - I might be able to, what are the revisions?
